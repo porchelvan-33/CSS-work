@@ -1,6 +1,6 @@
 <----------------------------------CSS---------------------------------------------->
 (i) Selector -CSS selectors are used to "find" (or select) the HTML elements you want to style
-   --->Simple selector
+   ------->Simple selector
        (1) Tag selector
        (2) Id selector-start with the "#" symbol
        (3) Class selector-start with ".Class name" we can use the class for the multiple elements 
@@ -8,13 +8,13 @@
        (4) Universal selector - it is applice for all the elements start with " * "
        (5) Grouping selector we can use it for the multiple tag mention to apply for the property
 
-(ii) Background image
+(ii)------> Background image
      (1) Background position(X axis,Y axis)
      (2) Background no repeat
      (3) Background attachment : Fixed - the image was in the fixed position 
      (4) short hand ()- to denote all the attribute in one line Ex:(background: url("natrul.jpg") no-repeat right center scroll;)
      
-(iii) Borders
+(iii)------> Borders
       (1) different types of border Ex:-(border style:dotted;)
         EX:- h1{border-style:dashed double dotted  solid}
                              |       |      |       |
@@ -26,5 +26,13 @@
        (3)border-color
        (4)border-width
        (5)border-radius
-       (6)border-shorten    
-          
+       (6)border-shorten-use all the attributes in single denote(border radius cannot be possible in the denote)
+    
+(iv) Margin
+    ---> Margin pixel are mentioned like border which are from the left top to left bottom side ex(margin: 50px 50px 50px 50px;)
+         it is gives an equal margin space in all sides
+    ---> we can able to mention one by one sides(margin-top,margin-bottom,margin-right,margin-left)
+    --->(margin:auto) to assign margin
+
+(V) Padding
+    --->    
