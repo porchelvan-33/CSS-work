@@ -21,5 +21,10 @@
                             top     right  bottom  left
         EX:- h1{border-style: dashed      dotted}
                                 |           |
-                            top & bottom   right & left      
+                            top & bottom   right & left  
+       (2)border-Style
+       (3)border-color
+       (4)border-width
+       (5)border-radius
+       (6)border-shorten    
           
