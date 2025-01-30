@@ -1,0 +1,25 @@
+<----------------------------------CSS---------------------------------------------->
+(i) Selector -CSS selectors are used to "find" (or select) the HTML elements you want to style
+   --->Simple selector
+       (1) Tag selector
+       (2) Id selector-start with the "#" symbol
+       (3) Class selector-start with ".Class name" we can use the class for the multiple elements 
+           it will be applicable and it is possible to mention for the particular element ("tag.classname")
+       (4) Universal selector - it is applice for all the elements start with " * "
+       (5) Grouping selector we can use it for the multiple tag mention to apply for the property
+
+(ii) Background image
+     (1) Background position(X axis,Y axis)
+     (2) Background no repeat
+     (3) Background attachment : Fixed - the image was in the fixed position 
+     (4) short hand ()- to denote all the attribute in one line Ex:(background: url("natrul.jpg") no-repeat right center scroll;)
+     
+(iii) Borders
+      (1) different types of border Ex:-(border style:dotted;)
+        EX:- h1{border-style:dashed double dotted  solid}
+                             |       |      |       |
+                            top     right  bottom  left
+        EX:- h1{border-style: dashed      dotted}
+                                |           |
+                            top & bottom   right & left      
+          
