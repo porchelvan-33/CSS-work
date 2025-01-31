@@ -1,4 +1,4 @@
-<----------------------------------CSS---------------------------------------------->
+<-------------------------------------------CSS---------------------------------------------->
 (i) Selector -CSS selectors are used to "find" (or select) the HTML elements you want to style
    ------->Simple selector
        (1) Tag selector
@@ -35,4 +35,12 @@
     --->(margin:auto) to assign margin
 
 (V) Padding
-    --->    
+    --->Padding is used to create space around an element's content, inside of any defined borders.
+    --->The CSS padding properties are used to generate space around an element's content, inside of any defined borders
+    --->(% - specifies a padding in %) of the width of the containing element
+    --->it also like margin&border to mention the four sides
+
+(vi) BOX model
+     --->In CSS, the term "box model" is used when talking about design and layout
+     --->The CSS box model is essentially a box that wraps around every HTML element. It consists of : content, padding, borders & margin
+     
